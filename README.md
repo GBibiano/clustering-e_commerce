@@ -1,7 +1,7 @@
 # Clustering em e_commerce
 Aplicando algoritmos de clustering não-supervisionado para segmentação de clientes visando marketing direcionado.
 
-- arquivo **`.ipynb`** possui o projeto; e
+- arquivo **`.ipynb`** possui o código e explicação em células markdown; e
 - arquivo **`.pdf`** possui a explicação da minha linha de pensamento, embasamentos e linha de ação.
 
 # REFERÊNCIAS 
